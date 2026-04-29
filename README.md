@@ -137,10 +137,6 @@ The queries solve real-life business problems — such as salary analysis, depar
 
 ---
 
-<h2>📬 Contact</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/gunelmusayeva1)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -149,6 +145,7 @@ The queries solve real-life business problems — such as salary analysis, depar
 
 
 [linkedin]: https://linkedin.com/in/gunel-musayeva-aa88651aa
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/gunelmusayeva1)
 
   
 
