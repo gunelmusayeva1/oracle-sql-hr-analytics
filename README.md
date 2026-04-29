@@ -39,5 +39,13 @@ Tables used: employees, departments, locations, countries, regions, jobs
 •	Subqueries and CTEs (WITH)
 •	Date functions: ADD_MONTHS, LAST_DAY, TO_CHAR, EXTRACT
 
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/gunel-musayeva-aa88651aa
+
   
 
