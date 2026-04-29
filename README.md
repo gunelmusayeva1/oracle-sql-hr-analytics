@@ -1,4 +1,6 @@
-Oracle HR Analytics
+<h1>Hi, I'm Gunel! <br/><a href="https://github.com/gunelmusayeva1">SQL & PL/SQL Developer | Data Analyst </a>
+  
+<h2> Projects:</h2> Oracle HR Analytics
 
 Oracle SQL · Window Functions · Joins · Subqueries · Date Functions
 
